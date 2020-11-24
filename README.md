@@ -5,8 +5,8 @@
 
 ## I'm a Software Engineer !Developer
 
-- 🌱 I’m currently learning to slow down and invest in myself 🤣
-- 👯 I’m trying to create a brand for myself.
+- 🌱 I’m currently learning to slow down and invest in myself and create a brand
+- 👯 Sadly, I have no side projects except for rebuilding my own portfolio. So, DM me if you have a great idea for side project
 - 🥅 2021 Goals: Land an SDE job in a prestigious company.
 - ⚡ Cooking and cleaning are meditation to me
 

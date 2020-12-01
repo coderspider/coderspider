@@ -7,7 +7,10 @@
 
 - 🌱 I’m currently learning to slow down and invest in myself and create a brand
 - 👯 Sadly, I have no side projects except for rebuilding my own portfolio. So, DM me if you have a great idea for side project
-- 🥅 2021 Goals: Land an SDE job in a prestigious company.
+- 🥅 2021 Goals: 
+    - Land an SDE job in a prestigious company.
+    - Blog about my learning once a week
+    - Start a podcaast/youtube channel
 - ⚡ Cooking and cleaning are meditation to me
 
 ### Spotify Playing 🎧

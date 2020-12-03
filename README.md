@@ -3,7 +3,7 @@
 ## I'm a Software Engineer !Developer
 
 - 🌱 I’m currently learning to slow down and invest in myself and create a brand
-- ⚡ I have a solid 17 months of experience in building web apps and recently learn to build mobile apps as well.
+- ⚡ I have a solid 17 months of experience in building web apps and recently learnt to build mobile apps as well.
 - 👯 I'm currently rebuilding my portfolio which aggregates information from all my social handles. You can DM me if you have a great idea that you'd like to see come true.
 - 🥅 2021 Goals: 
     - Land an SDE job in a prestigious company.

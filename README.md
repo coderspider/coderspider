@@ -7,7 +7,7 @@
 - 👯 I'm currently rebuilding my portfolio which aggregates information from all my social handles. You can DM me if you have a great idea that you'd like to see come true.
 - 📜 [Download my resume](https://github.com/joelvinaykumar/joelvinaykumar/raw/main/JoelVinayKumar_SoftwareEngineer_1.5YoE.pdf)
 - 🥅 2021 Goals: 
-    - Land an SDE job in a prestigious company.
+    - Learning System Design, Devops, Algo& DS to become a ninja SDE
     - Blog about my learning once a week
     - Start a podcast/youtube channel
 
@@ -65,6 +65,7 @@
 | [Mini Quora](https://github.com/joelvinaykumar/MiniQuora) |  A community portal for students to discuss about their interview experiences |
 | [Social Network](https://github.com/joelvinaykumar/social-network) |    A place to add friends and keep track of friends and friends of friends   |
 | [SMS server](https://github.com/joelvinaykumar/sms-server) | This server handles inbound and outbound sms by validating and routing the requests |
+| [Simpled](https://github.com/joelvinaykumar/simpled) | Simpled is shortened word for simplified. This project is a simplified twitter app that lets you post a short text |
 
 ## 📕 Latest Blog Posts
 

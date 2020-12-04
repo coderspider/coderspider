@@ -3,7 +3,7 @@
 ## I'm a Software Engineer !Developer
 
 - 🌱 I’m currently learning to slow down and invest in myself and create a brand
-- ⚡ I have a solid 17 months of experience in building web apps and recently learnt to build mobile apps as well.
+- ⚡ I have been working as a React developer for over 7 months now, I have quickly learnt to build clean and responsive user interfaces for my current company. Apart from that I have in depth knowledge of React DOM, CSS, state management, React hooks and optimal API integration. I am also capable of simplifying Web App using React Components. Adding to it, I am  always keen to take up challenges and my 10 months short but knowledgeful stint with back end development in building microservices and an API gateway shows my ability to learn and deliver quick outputs. This backend role also helped me in understanding NodeJS, MySQL, REST API, NestJS, MongoDB and Oauth modules 
 - 👯 I'm currently rebuilding my portfolio which aggregates information from all my social handles. You can DM me if you have a great idea that you'd like to see come true.
 - 🥅 2021 Goals: 
     - Land an SDE job in a prestigious company.
@@ -55,15 +55,15 @@
 
 ## 📝 Blog
 
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/joelvinaykumar)
 
 ## 🛠 Projects I'm proud of
-- [Mini Quora](https://github.com/joelvinaykumar/MiniQuora)
-   - A community portal for students to discuss about their interview experiences
-- [Social Network](https://github.com/joelvinaykumar/social-network)
-   - A place to add friends and keep track of friends and friends of friends
-- [SMS server](https://github.com/joelvinaykumar/sms-server)
-   - This server handles inbound and outbound sms by validating and routing the requests
+
+| Name   | Description      |
+|----------|:-------------|
+| [Mini Quora](https://github.com/joelvinaykumar/MiniQuora) |  A community portal for students to discuss about their interview experiences |
+| [Social Network](https://github.com/joelvinaykumar/social-network) |    A place to add friends and keep track of friends and friends of friends   |
+| [SMS server](https://github.com/joelvinaykumar/sms-server) | This server handles inbound and outbound sms by validating and routing the requests |
 
 ## 📕 Latest Blog Posts
 

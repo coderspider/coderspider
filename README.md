@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning to slow down and invest in myself and create a brand
 - ⚡ I have been working as a React developer for over 7 months now, I have quickly learnt to build clean and responsive user interfaces for my current company. Apart from that I have in depth knowledge of React DOM, CSS, state management, React hooks and optimal API integration. I am also capable of simplifying Web App using React Components. Adding to it, I am  always keen to take up challenges and my 10 months short but knowledgeful stint with back end development in building microservices and an API gateway shows my ability to learn and deliver quick outputs. This backend role also helped me in understanding NodeJS, MySQL, REST API, NestJS, MongoDB and Oauth modules 
 - 👯 I'm currently rebuilding my portfolio which aggregates information from all my social handles. You can DM me if you have a great idea that you'd like to see come true.
-- 📜 [Download my resume](https://github.com/joelvinaykumar/joelvinaykumar/raw/main/JoelVinayKumar_SoftwareEngineer_1.5YoE.pdf)
+- 📜 [Download my resume](https://github.com/joelvinaykumar/joelvinaykumar/blob/main/Joel_SDE_1.5YoE.pdf)
 - 🥅 2021 Goals: 
     - Learning System Design, Devops, Algo& DS to become a ninja SDE
     - Blog about my learning once a week

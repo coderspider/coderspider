@@ -8,7 +8,7 @@
 - Adding to it, I am  always keen to take up challenges and my 10 months short but knowledgeful stint with back end development in building microservices and an API gateway shows my ability to learn and deliver quick outputs. 
 - This backend role also helped me in understanding NodeJS, MySQL, REST API, NestJS, MongoDB and Oauth modules 
 - 👯 I'm currently rebuilding my portfolio which aggregates information from all my social handles. You can DM me if you have a great idea that you'd like to see come true.
-- 📜 [Download my resume](https://github.com/joelvinaykumar/joelvinaykumar/blob/main/Joel_SDE_1.5YoE.pdf)
+- 📜 [Download my resume](https://github.com/joelvinaykumar/joelvinaykumar/blob/main/Joel_Auzmor_1.5YoE.pdf)
 - 🥅 2021 Goals: 
     - Learning System Design, Devops, Algo& DS to become a ninja SDE
     - Blog about my learning once a week

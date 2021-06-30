@@ -16,7 +16,7 @@
 
 ## ☎️ Social
 
-[![Website](https://img.shields.io/website?label=joel.swecha.io&style=for-the-badge&url=http%3A%2F%2Fjoel.swecha.io)](https://joel.swecha.io)
+[![Website](https://img.shields.io/website?label=joel.swecha.io&style=for-the-badge&url=http%3A%2F%2Fjoel-cv.web.app)](https://joel-cv.web.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/coderspider?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcoderspider&screen_name=coderspider)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joelvinaykumar)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/JoelVinayKumar)

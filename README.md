@@ -1,18 +1,22 @@
 # Hi there, I'm Joel Vinay Kumar from Hyderabad <img src="https://png.pngtree.com/png-vector/20200418/ourlarge/pngtree-charminar-illustration-of-historical-monument-hyderabad-vector-png-image_2189907.jpg" width="30" height="30" />  👋
 
-## I'm a Software Engineer !Developer
+## I'm a Software Engineer
 
-- 🌱 I’m currently learning to slow down and invest in myself and create a brand
-- ⚡ I have been working as a React developer for over 6 months now, I have quickly learnt to build clean and responsive user interfaces using React, React hooks, React DOM.
-- Apart from that I have in depth knowledge of CSS, state management. I am also capable of simplifying Web App using React Components. 
-- Adding to it, I am  always keen to take up challenges and my 10 months short but knowledgeful stint with back end development in building microservices and an API gateway shows my ability to learn and deliver quick outputs. 
+- 🌱 I’m currently learning to invest my time and money in the right way to get maximum returns.
+- ⚡ I work at Auzmor. It is a B2B SaaS startup based in Iowa, USA.
+- ⚡ My speciality is MERN stack and I've built some good projects to learn some great concepts.
+- Apart from that I have in depth knowledge of CSS, state management.
+- Adding to it, I am  always keen to take up interesting challenges.
+- I like to solve problems and own them.
 - This backend role also helped me in understanding NodeJS, MySQL, REST API, NestJS, MongoDB and Oauth modules 
-- 👯 I'm currently rebuilding my portfolio which aggregates information from all my social handles. You can DM me if you have a great idea that you'd like to see come true.
+- 👯 I'm also learning to habituate reading books.
 - 📜 [Download my resume](https://github.com/joelvinaykumar/joelvinaykumar/blob/main/Joel_Auzmor_1.5YoE.pdf)
 - 🥅 2021 Goals: 
     - Learning System Design, Devops, Algo& DS to become a ninja SDE
     - Blog about my learning once a week
     - Start a podcast/youtube channel
+
+## Do you have an idea that needs help? Buzz me in through my social links below.
 
 ## ☎️ Social
 

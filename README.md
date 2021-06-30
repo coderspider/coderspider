@@ -55,7 +55,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/fv1vkgyjb84fha3jlx5wcvb6f)
 
 ## 📝 Blog
 
@@ -65,6 +65,7 @@
 
 | Name   | Description      |
 |----------|:-------------|
+| [Teacher Berry](https://github.com/joelvinaykumar/learngram) |  A teaching platform to create courses from documents and videos |
 | [Mini Quora](https://github.com/joelvinaykumar/MiniQuora) |  A community portal for students to discuss about their interview experiences |
 | [Social Network](https://github.com/joelvinaykumar/social-network) |    A place to add friends and keep track of friends and friends of friends   |
 | [SMS server](https://github.com/joelvinaykumar/sms-server) | This server handles inbound and outbound sms by validating and routing the requests |
@@ -89,7 +90,7 @@
 
 </details>
 
-[website]: https://joel.swecha.io
+[website]: https://joel-cv.web.app
 [twitter]: https://twitter.com/coderpsider
 [instagram]: https://instagram.com/coderspider
 [linkedin]: https://linkedin.com/in/joelvinaykumar

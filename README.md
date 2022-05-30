@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer
 
-- 🌱 I’m currently learning to invest my time and money in the right way to get maximum returns.
+- 🌱 I’ve recently read "Atomic Habits by James Clear" and started making habits. So far, been wonderful.
 - ⚡ I work at valuebound. It is a service based firm based in Bangalore, India.
 - ⚡ My speciality is MERN stack and I've built some good projects to learn some great concepts.
 - Apart from that I have in depth knowledge of CSS, state management.

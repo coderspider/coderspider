@@ -3,18 +3,17 @@
 ## I'm a Software Engineer
 
 - 🌱 I’m currently learning to invest my time and money in the right way to get maximum returns.
-- ⚡ I work at Auzmor. It is a B2B SaaS startup based in Iowa, USA.
+- ⚡ I work at valuebound. It is a service based firm based in Bangalore, India.
 - ⚡ My speciality is MERN stack and I've built some good projects to learn some great concepts.
 - Apart from that I have in depth knowledge of CSS, state management.
 - Adding to it, I am  always keen to take up interesting challenges.
 - I like to solve problems and own them.
 - This backend role also helped me in understanding NodeJS, MySQL, REST API, NestJS, MongoDB and Oauth modules 
 - 👯 I'm also learning to habituate reading books.
-- 📜 [Download my resume](https://github.com/joelvinaykumar/joelvinaykumar/blob/main/Joel_SWE_2YoE.pdf)
-- 🥅 2021 Goals: 
-    - Learning System Design, Devops, Algo& DS to become a ninja SDE
-    - Blog about my learning once a week
-    - Start a podcast/youtube channel
+- 📜 [Download my resume](https://github.com/joelvinaykumar/joelvinaykumar/blob/main/Joel_SWE_3YoE__FE.pdf)
+- 🥅 2022 Goals: 
+    - Learning System Design, DSA to become a ninja SDE
+    - Stay healthy and learn WLB
 
 ## Do you have an idea that needs help? Buzz me in through my social links below.
 
@@ -23,7 +22,6 @@
 [![Website](https://img.shields.io/website?label=joel.swecha.io&style=for-the-badge&url=http%3A%2F%2Fjoel-cv.web.app)](https://joel-cv.web.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/coderspider?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcoderspider&screen_name=coderspider)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joelvinaykumar)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/JoelVinayKumar)
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9003465/joel-vinay-kumar)
 
 ## 🚀 Skills
@@ -59,7 +57,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/fv1vkgyjb84fha3jlx5wcvb6f)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Joel's Spotify Playing" width="350" />](https://open.spotify.com/user/fv1vkgyjb84fha3jlx5wcvb6f)
 
 ## 📝 Blog
 

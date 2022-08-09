@@ -10,7 +10,7 @@
 - I like to solve problems and own them.
 - This backend role also helped me in understanding NodeJS, MySQL, REST API, NestJS, MongoDB and Oauth modules 
 - 👯 I'm also learning to habituate reading books.
-- 📜 [Download my resume](https://github.com/joelvinaykumar/joelvinaykumar/blob/main/Joel_SWE_3YoE__FE.pdf)
+- 📜 [Download my resume](https://github.com/joelvinaykumar/joelvinaykumar/blob/main/Joel_SWE_3YoE__FE_.pdf)
 - 🥅 2022 Goals: 
     - Learning System Design, DSA to become a ninja SDE
     - Stay healthy and learn WLB

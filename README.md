@@ -2,20 +2,20 @@
 
 ## I'm a Software Engineer
 
-- 🌱 I’ve recently read "Atomic Habits by James Clear" and started making habits. So far, been wonderful.
-- ⚡ I work at valuebound. It is a service based firm based in Bangalore, India.
-- ⚡ My speciality is MERN stack and I've built some good projects to learn some great concepts.
-- Apart from that I have in depth knowledge of CSS, state management.
-- Adding to it, I am  always keen to take up interesting challenges.
-- I like to solve problems and own them.
-- This backend role also helped me in understanding NodeJS, MySQL, REST API, NestJS, MongoDB and Oauth modules 
-- 👯 I'm also learning to habituate reading books.
+- 🌱 I've recently renovated my home and this project has so far went really well.
+- ⚡ I work at @Bintix. It is a waste-tech startup based in Hyderabad, India.
+- ⚡ Ours is a hybrid work model and I travel to my amazing office 3 times a work week.
+- ⚡ My speciality is MERN stack, but I worked in MEAN, Laravel, React Native, Native Android apps as well.
+- Apart from that my free time is mostly binge watching and searching for great content creators in software industry.
+- I take up interesting challenges like creating a CD player using pure HTML, CSS, JS and creating twitter clone app.
+- I face and solve a wide variety of interesting challenges in my job. I will document them soon. Probably in medium or dev.to
+- 👯 I'm learning to habituate reading books.
 - 📜 [Download my resume](https://github.com/joelvinaykumar/joelvinaykumar/blob/main/Joel_SWE_3YoE__FE_.pdf)
-- 🥅 2022 Goals: 
-    - Learning System Design, DSA to become a ninja SDE
-    - Stay healthy and learn WLB
+- 🥅 2023 Goals: 
+    - Learning System Design, Data Science
+    - Somehow, able to balance my work-life. Now it's time to grow.
 
-## Do you have an idea that needs help? Buzz me in through my social links below.
+## Do you have a startup idea that needs a little bit of tech razzle dazzle? Buzz me through my social links below.
 
 ## ☎️ Social
 

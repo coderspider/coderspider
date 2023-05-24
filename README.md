@@ -19,7 +19,7 @@
 
 ## ☎️ Social
 
-[![Website](https://img.shields.io/website?label=joel.swecha.io&style=for-the-badge&url=http%3A%2F%2Fjoel-cv.web.app)](https://joel-cv.web.app)
+[![Website](https://img.shields.io/website?label=jvk.netlify.app&style=for-the-badge&url=http%3A%2F%2Fjvk.netlify.app)](https://jvk.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/coderspider?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcoderspider&screen_name=coderspider)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joelvinaykumar)
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9003465/joel-vinay-kumar)
@@ -54,10 +54,6 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Joel's Spotify Playing" width="350" />](https://open.spotify.com/user/fv1vkgyjb84fha3jlx5wcvb6f)
 
 ## 📝 Blog
 

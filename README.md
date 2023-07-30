@@ -10,7 +10,7 @@
 - I take up interesting challenges like creating a CD player using pure HTML, CSS, JS and creating twitter clone app.
 - I face and solve a wide variety of interesting challenges in my job. I will document them soon. Probably in medium or dev.to
 - 👯 I'm learning to habituate reading books.
-- 📜 [Download my resume](https://github.com/joelvinaykumar/joelvinaykumar/blob/main/Joel_SWE_3YoE__FE_.pdf)
+- 📜 [Download my resume](https://github.com/joelvinaykumar/joelvinaykumar/blob/main/Joel_SWE_4YoE.pdf)
 - 🥅 2023 Goals: 
     - Learning System Design, Data Science
     - Somehow, able to balance my work-life. Now it's time to grow.
